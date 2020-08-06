@@ -1,7 +1,9 @@
 # CordovaAngularSample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.  
-Angular&cordova プロジェクト
+Angular&cordova のサンプルプロジェクトです。  
+設定内容は以下の記事を参照してください。  
+[Angular+cordovaプロジェクトを作成する](https://note.com/mono01012/n/n10ff428d3841)
 
 ## Development server
 
@@ -29,4 +31,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # 参考
 
-[Angular と cordova でアプリを作ってみる](https://doruby.jp/users/bibio/entries/angular-と-cordovaでアプリを作ってみる)
+- [Angular と cordova でアプリを作ってみる](https://doruby.jp/users/bibio/entries/angular-と-cordovaでアプリを作ってみる)
